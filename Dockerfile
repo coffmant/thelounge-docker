@@ -1,4 +1,4 @@
-FROM node:8
+FROM arm64v8/node:8
 
 ENV NODE_ENV production
 
