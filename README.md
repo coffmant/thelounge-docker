@@ -6,7 +6,7 @@
 </h1>
 
 <h3 align="center">
-	Docker container for The Lounge, modern web IRC client designed for self-hosting
+	Arm64 Docker container for The Lounge, modern web IRC client designed for self-hosting
 </h3>
 
 <p align="center">
